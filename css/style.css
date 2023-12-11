@@ -113,20 +113,12 @@ button{
 
 /* Display scaling */
 @media screen and (max-width: 1199px){
-  body{
-    background-color: #035be9;
-  }
-
   .rem-img{
     display: none;
   }
 }
 
 @media screen and (max-width: 768px) {
-  body{
-    background-color: aqua;
-  }
-
   .rem-img{
     display: none;
   }
